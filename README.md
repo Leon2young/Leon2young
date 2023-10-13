@@ -214,7 +214,7 @@ mindmap
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-<div align="center"> <img src="https://metrics.lecoq.io/Leon2young?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<img src="https://metrics.lecoq.io/Leon2young?template=classic&config.timezone=Asia%2FShanghai">
 &emsp;
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 
