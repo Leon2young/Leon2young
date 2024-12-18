@@ -125,9 +125,9 @@ mindmap
 
 <!-- Quotes 名人名言 -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 150;" />
+  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 100px;" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="width: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 150;" />
+  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 100px;" />
 </div>
 
 <div align="center" >
