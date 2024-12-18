@@ -39,7 +39,6 @@
 
 <table>
 <tr><td>
-
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
@@ -76,14 +75,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Leon2young&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Leon2young&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Leon2young&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 </td></tr>
 
@@ -123,10 +122,11 @@ mindmap
 ```
 
 <!-- Quotes 名人名言 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" />&emsp;
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
-&emsp;
-<img width="150" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" />
+<div style="display: flex; align-items: center;">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="margin: 0 1em;" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" />
+</div>
 
 <div align="center" >
 
