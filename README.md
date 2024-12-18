@@ -9,10 +9,11 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/peipei-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/peipei-light.gif" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/developer.svg" />
   </picture>
+
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -22,10 +23,11 @@
     <a href="https://www.csdn.net/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/Leon2young/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <a href="https://github.com/Leon2young"><img src="https://komarev.com/ghpvc/?username=Leon2young&label=Views&color=0e75b6&style=flat" alt="访问量统计"/></a>&emsp;
+    <a href="https://github.com/Leon2young"><img src="https://komarev.com/ghpvc/?username=Leon2young&label=Views&color=orange&style=flat" alt="访问量统计"/></a>&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@Leon2young"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" />
+    <a href="https://wakatime.com/@Leon2young"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
   </div>
+
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
 <picture>
@@ -36,13 +38,12 @@
 </div>
 
 #  🙋 Hello
-
 <table>
 <tr><td>
 <!-- About me 关于我 -->
-### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/coffee.gif" />
+### 🤺 About Me
+<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/xiaoyang.webp" />
 
 <p>&emsp;&emsp;Bonjour, je suis Leon2young.</p>
 <p>&emsp;&emsp;Passionate about programming, photography, reading, and traveling.</p>
@@ -55,7 +56,7 @@
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/artist.png" />
+<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/weicao.png" />
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>《认知觉醒》</a> 最近在读🌟🌟🌟🌟🌟
@@ -71,7 +72,7 @@
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/astronaut.png" />
+<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/tutu.webp" />
 
 <picture>
   <source
@@ -122,10 +123,10 @@ mindmap
 ```
 
 <!-- Quotes 名人名言 -->
-<div style="display: flex; align-items: center;">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="margin: 0 1em;" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 150px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="width: auto;" />
+  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 150px;" />
 </div>
 
 <div align="center" >
@@ -136,8 +137,8 @@ mindmap
 
 <!-- Awesome repo 比较好的仓库-->
 <!--
-<a href="https://github.com/Leon2young/peak-admin">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Leon2young&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/Leon2young/peak-admin-flask">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
 <a href="https://github.com/Leon2young/Student-Data-Vision">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Leon2young&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 -->
