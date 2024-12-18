@@ -56,7 +56,7 @@
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/weicao.png" />
+<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/sikadi.gif" />
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>《认知觉醒》</a> 最近在读🌟🌟🌟🌟🌟
@@ -71,8 +71,9 @@
 <tr><td>
 
 <!-- wakatime 统计 -->
+
 ### 📊 WakaTime
-<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/tutu.webp" />
+<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/weicao.webp" />
 
 <picture>
   <source
