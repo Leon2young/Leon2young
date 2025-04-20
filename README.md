@@ -63,10 +63,11 @@
 |------------|------------------------------------------------------------------------------------------|-----------|
 | 🤖 **专业研究**  | [![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-正在研究-8A2BE2?logo=bookstack)](https://zhuanlan.zhihu.com/p/624221952) | ▰▰▰▰▰ 5/5 |
 | 🎷 **音乐收藏** | [![O Pato](https://img.shields.io/badge/优雅Jazz-O_Pato-FF69B4?logo=neteasecloudmusic)](https://b23.tv/BV1opXDYyEzy) | ▰▰▰▰▰ 5/5 |
-| ♟️ **策略游戏** | [![CK3](https://img.shields.io/badge/Paradox-Crusader Kings III-7f050d?logo=paradoxinteractive)](https://store.steampowered.com/app/1158310) | ▰▰▰▰▰ 5/5 |
+| ♟️ **策略游戏** | [![CK3](https://img.shields.io/badge/Paradox-十字军之王3-7f050d?logo=paradoxinteractive)](https://store.steampowered.com/app/1158310) | ▰▰▰▰▰ 5/5 |
 | 📜 **历史探索** | [![通辽宇宙](https://img.shields.io/badge/通辽宇宙-研究历史-00aeec?logo=bilibili)](https://space.bilibili.com/23947287) | ▰▰▰▰▰ 5/5 |
 | 💰 **财富思维** | [![小狗钱钱](https://img.shields.io/badge/理财心理学-正在阅读-F7931A?logo=bitcoin)](https://weread.qq.com/web/bookDetail/ea232e205c3023ea2c96525) | ▰▰▰▰▰ 5/5 |
 <!-- END_SECTION:Recent -->
+</td></tr>
 
 <tr><td>
 
@@ -86,6 +87,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
+
 </td></tr>
 
 <tr><td>
@@ -97,71 +99,21 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
 
-<!-- Quotes 名人名言 -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 100px;" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="width: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 100px;" />
-  <br></br>
+
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <!-- 左侧鸭子 -->
+  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 100px; flex-shrink: 0;" />
+
+  <!-- GitHub 奖杯🏆 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
+       style="flex: 1; min-width: 0; object-fit: contain;" />
+
+  <!-- 右侧鸭子 -->
+  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 100px; flex-shrink: 0;" />
 </div>
-
-
-<div align="center" >
-
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=Leon2young&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-
-<!-- Awesome repo 比较好的仓库-->
-<!--
-<a href="https://github.com/Leon2young/peak-admin-flask">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-<a href="https://github.com/Leon2young/Student-Data-Vision">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Leon2young&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
--->
-
 <!-- GitHub 数据统计 -->
 <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
-
-<!-- 
- <!-- skill badge 技能徽章 -->
-🧰 常用工具
-
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
-<!-- programming tool icon 编程工具图标
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br> -->
-
-<!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/github.webp"> 
- -->
 
 <!-- just foot-img 底图 -->
 <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/icon.png" />
