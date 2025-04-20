@@ -47,9 +47,12 @@
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/xiaoyang.webp" />
 
 <p>&emsp;&emsp;Bonjour, je suis Leon2young.</p>
-<p>&emsp;&emsp;Passionate about programming, photography, reading, and traveling.</p>
-<p>&emsp;&emsp;Devoted to the fields of data mining and artificial intelligence, aspiring to become an excellent developer.</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;Passionate about the Six Arts of the Modern Scholar: programming, reading, writing, connecting, photography, and wandering.</p>
+<p>&emsp;&emsp;Devoted to time series forecasting and artificial intelligence, aspiring to become an exceptional developer.</p>
+<p><strong>&emsp;&emsp;Code evolves Taiji through ceaseless iterations, vigilant automation guarding open-source cosmology. Modular Yin-Yang mutations forge Yuan-Heng-Li-Zhen harmony, as hierarchical abstraction unveils the flawless Dao.</strong></p>
+<p><strong>&emsp;&emsp;"终日乾乾"代码迭代重构数字太极，"夕惕若厉"自动测试守护开源坤元。当模块化架构的阴阳爻变臻至元亨利贞之境，层次化抽象自显无咎之道。</strong></p>
+
+
 
 </td></tr>
 
@@ -68,8 +71,10 @@
 | ♟️ **策略游戏**             | [![CK3](https://img.shields.io/badge/Paradox-十字军之王3-7f050d?logo=paradoxinteractive)](https://store.steampowered.com/app/1158310)             | ▰▰▰▰▰ 5/5 |
 | 📜 **历史探索**             | [![通辽宇宙](https://img.shields.io/badge/通辽宇宙-硬核狠人-00aeec?logo=bilibili)](https://space.bilibili.com/23947287)                           | ▰▰▰▰▰ 5/5 |
 | 💰 **财富思维**             | [![小狗钱钱](https://img.shields.io/badge/理财心理学-小狗钱钱-F7931A?logo=bitcoin)](https://weread.qq.com/web/bookDetail/ea232e205c3023ea2c96525) | ▰▰▰▰▰ 5/5 |
-| <!-- END_SECTION:Recent --> |                                                                                                                                                   |           |
-| </td></tr>                  |                                                                                                                                                   |           |
+
+​                                                                                                                                      
+
+</td></tr>                
 
 <tr><td>
 
@@ -98,17 +103,11 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
 
 <!-- GitHub 数据统计 -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img height="150px"
-       style="flex: 1; min-width: 0;"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-
-  <img height="150px"
-       style="flex: 1; min-width: 0;"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
+<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<br>
 <!-- GitHub 奖杯🏆 -->
+
 <div style="display: flex; align-items: center; overflow-x: hidden; white-space: nowrap;">
   <!-- 左侧鸭子 -->
   <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
@@ -120,7 +119,7 @@
   <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
        style="width: 80px; height: auto; flex-shrink: 1;" />
 </div>
-
+<br>
 <!-- just foot-img 底图 -->
 <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/icon.png" />
 
