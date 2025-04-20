@@ -99,22 +99,29 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
 
-
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap;">
+<div style="display: flex; align-items: center; gap: 10px; overflow-x: auto;">
   <!-- 左侧鸭子 -->
-  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 100px; flex-shrink: 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
+       style="max-width: 100px; min-width: 50px; width: auto; height: auto; flex-shrink: 1; aspect-ratio: 1;" />
 
   <!-- GitHub 奖杯🏆 -->
   <img src="https://github-profile-trophy.vercel.app/?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
-       style="flex: 1; min-width: 0; object-fit: contain;" />
+       style="flex: 1; min-width: min(400px, 100%); object-fit: contain;" />
 
   <!-- 右侧鸭子 -->
-  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 100px; flex-shrink: 0;" />
+  <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
+       style="max-width: 100px; min-width: 50px; width: auto; height: auto; flex-shrink: 1; aspect-ratio: 1;" />
 </div>
 <!-- GitHub 数据统计 -->
-<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
-
+<div style="display: flex; gap: 10px; overflow-x: auto; flex-wrap: nowrap; align-items: start;">
+  <img height="150px" 
+       style="flex-shrink: 0; min-width: 450px; object-fit: contain;"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  
+  <img height="150px" 
+       style="flex-shrink: 0; min-width: 300px; object-fit: contain;"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
 <!-- just foot-img 底图 -->
 <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/icon.png" />
 
