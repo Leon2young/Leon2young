@@ -17,14 +17,12 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="http://leoncr8.eu.org/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@Leon2young"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://space.bilibili.com/477071555/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://www.csdn.net/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/Leon2young/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@Leon2young"><img src="https://img.shields.io/badge/YouTube-油管-ff0033" /></a>&emsp;
+    <a href="https://space.bilibili.com/477071555/"><img src="https://img.shields.io/badge/Bilibili-B站-fb7299" /></a>&emsp;
+    <a href="https://www.csdn.net/"><img src="https://img.shields.io/badge/CSDN-论坛-f4522f" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/Leon2young/"><img src="https://img.shields.io/badge/Zhihu-知乎-0063f7" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <a href="https://github.com/Leon2young"><img src="https://komarev.com/ghpvc/?username=Leon2young&label=Views&color=orange&style=flat" alt="访问量统计"/></a>&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@Leon2young"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <a href="https://github.com/Leon2young"><img src="https://komarev.com/ghpvc/?username=Leon2young&label=Views&color=2BB24C&style=flat" alt="访问量统计"/></a>&emsp;
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -86,14 +84,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&langs_count=12&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 <!--END_SECTION:waka-->
 </td></tr>
