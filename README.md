@@ -14,7 +14,6 @@
     <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/developer.svg" />
   </picture>
 
-
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="http://leoncr8.eu.org/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -37,12 +36,14 @@
 </picture>
 </div>
 
-#  🙋 Hello
+# 🙋 Hello
+
 <table>
 <tr><td>
 <!-- About me 关于我 -->
 
 ### 🤺 About Me
+
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/xiaoyang.webp" />
 
 <p>&emsp;&emsp;Bonjour, je suis Leon2young.</p>
@@ -59,21 +60,23 @@
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/sikadi.gif" />
 
 <!-- START_SECTION:Recent -->
-| 领域       | 项目动态                                                                                 | 沉浸指数  |
-|------------|------------------------------------------------------------------------------------------|-----------|
-| 🤖 **专业研究**  | [![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-正在研究-8A2BE2?logo=bookstack)](https://zhuanlan.zhihu.com/p/624221952) | ▰▰▰▰▰ 5/5 |
-| 🎷 **音乐收藏** | [![O Pato](https://img.shields.io/badge/优雅Jazz-O_Pato-FF69B4?logo=neteasecloudmusic)](https://b23.tv/BV1opXDYyEzy) | ▰▰▰▰▰ 5/5 |
-| ♟️ **策略游戏** | [![CK3](https://img.shields.io/badge/Paradox-十字军之王3-7f050d?logo=paradoxinteractive)](https://store.steampowered.com/app/1158310) | ▰▰▰▰▰ 5/5 |
-| 📜 **历史探索** | [![通辽宇宙](https://img.shields.io/badge/通辽宇宙-研究历史-00aeec?logo=bilibili)](https://space.bilibili.com/23947287) | ▰▰▰▰▰ 5/5 |
-| 💰 **财富思维** | [![小狗钱钱](https://img.shields.io/badge/理财心理学-正在阅读-F7931A?logo=bitcoin)](https://weread.qq.com/web/bookDetail/ea232e205c3023ea2c96525) | ▰▰▰▰▰ 5/5 |
-<!-- END_SECTION:Recent -->
-</td></tr>
+
+| 领域                        | 项目动态                                                                                                                                          | 沉浸指数  |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 🤖 **专业研究**             | [![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-正在研究-8A2BE2?logo=bookstack)](https://zhuanlan.zhihu.com/p/624221952)       | ▰▰▰▰▰ 5/5 |
+| 🎷 **音乐鉴赏**             | [![O Pato](https://img.shields.io/badge/优雅Jazz-O_Pato-FF69B4?logo=neteasecloudmusic)](https://b23.tv/BV1opXDYyEzy)                              | ▰▰▰▰▰ 5/5 |
+| ♟️ **策略游戏**             | [![CK3](https://img.shields.io/badge/Paradox-十字军之王3-7f050d?logo=paradoxinteractive)](https://store.steampowered.com/app/1158310)             | ▰▰▰▰▰ 5/5 |
+| 📜 **历史探索**             | [![通辽宇宙](https://img.shields.io/badge/通辽宇宙-硬核狠人-00aeec?logo=bilibili)](https://space.bilibili.com/23947287)                           | ▰▰▰▰▰ 5/5 |
+| 💰 **财富思维**             | [![小狗钱钱](https://img.shields.io/badge/理财心理学-小狗钱钱-F7931A?logo=bitcoin)](https://weread.qq.com/web/bookDetail/ea232e205c3023ea2c96525) | ▰▰▰▰▰ 5/5 |
+| <!-- END_SECTION:Recent --> |                                                                                                                                                   |           |
+| </td></tr>                  |                                                                                                                                                   |           |
 
 <tr><td>
 
 <!-- wakatime 统计 -->
 
 ### 📊 WakaTime
+
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/weicao.webp" />
 
 <picture>
@@ -87,44 +90,39 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
-
-</td></tr>
-
-<tr><td>
 <!--END_SECTION:waka-->
-
 </td></tr>
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
 
-<div style="display: flex; align-items: center; gap: 10px; overflow-x: hidden; white-space: nowrap;">
+<!-- GitHub 数据统计 -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img height="150px"
+       style="flex: 1; min-width: 0;"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+
+  <img height="150px"
+       style="flex: 1; min-width: 0;"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
+<!-- GitHub 奖杯🏆 -->
+<div style="display: flex; align-items: center; overflow-x: hidden; white-space: nowrap;">
   <!-- 左侧鸭子 -->
   <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
        style="width: 80px; height: auto; flex-shrink: 1;" />
-
-  <!-- GitHub 奖杯🏆 -->
+  <!-- 奖杯 -->
   <img src="https://github-profile-trophy.vercel.app/?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
        style="flex: 1; min-width: 0; max-width: 100%;" />
-
   <!-- 右侧鸭子 -->
   <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
        style="width: 80px; height: auto; flex-shrink: 1;" />
 </div>
-<!-- GitHub 数据统计 -->
-<div style="display: flex; gap: 10px; overflow-x: auto; white-space: nowrap; align-items: start;">
-  <img height="150px" 
-       style="flex: 1; min-width: 0; max-width: 50%;"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  
-  <img height="150px" 
-       style="flex: 1; min-width: 0; max-width: 50%;"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+
 <!-- just foot-img 底图 -->
 <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/icon.png" />
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
-
