@@ -58,15 +58,15 @@
 
 <img align="right" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/sikadi.gif" />
 
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>《认知觉醒》</a> 最近在读🌟🌟🌟🌟🌟
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>《肖申克的救赎》</a> 喜欢的电影🌟🌟🌟🌟🌟 
-* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>《活着》</a> 印象最深的书🌟🌟🌟🌟🌟
-* <a href='https://music.douban.com/subject/30259081/' target='_blank'>《飞行器的执行周期》</a>最近在听专辑 🌟🌟🌟🌟🌟 
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>《狂飙》</a> 喜欢的电视剧🌟🌟🌟🌟🌟
-<!-- END_SECTION:douban -->
-
-</td></tr>
+<!-- START_SECTION:Recent -->
+| 领域       | 项目动态                                                                                 | 沉浸指数  |
+|------------|------------------------------------------------------------------------------------------|-----------|
+| 🤖 **专业研究**  | [![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-正在研究-8A2BE2?logo=bookstack)](https://zhuanlan.zhihu.com/p/624221952) | ▰▰▰▰▰ 5/5 |
+| 🎷 **音乐收藏** | [![O Pato](https://img.shields.io/badge/优雅Jazz-O_Pato-FF69B4?logo=neteasecloudmusic)](https://b23.tv/BV1opXDYyEzy) | ▰▰▰▰▰ 5/5 |
+| ♟️ **策略游戏** | [![CK3](https://img.shields.io/badge/Paradox-Crusader Kings III-7f050d?logo=paradoxinteractive)](https://store.steampowered.com/app/1158310) | ▰▰▰▰▰ 5/5 |
+| 📜 **历史探索** | [![通辽宇宙](https://img.shields.io/badge/通辽宇宙-研究历史-00aeec?logo=bilibili)](https://space.bilibili.com/23947287) | ▰▰▰▰▰ 5/5 |
+| 💰 **财富思维** | [![小狗钱钱](https://img.shields.io/badge/理财心理学-正在阅读-F7931A?logo=bitcoin)](https://weread.qq.com/web/bookDetail/ea232e205c3023ea2c96525) | ▰▰▰▰▰ 5/5 |
+<!-- END_SECTION:Recent -->
 
 <tr><td>
 
@@ -97,32 +97,6 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
 
-<div align="center" >
-
-```mermaid
-mindmap
-  root((Leon2young))
-    编程
-      Web开发
-      网络爬虫
-      人工智能
-    摄影
-      湖景
-      夜景
-    旅行
-      杭州
-      上海
-      苏州
-      济南
-      聊城
-      台州
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      计算机技术
-```
-
 <!-- Quotes 名人名言 -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" style="width: 100px;" />
@@ -149,10 +123,8 @@ mindmap
 <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
-
-<!--  skill badge 技能徽章 -->
+<!-- 
+ <!-- skill badge 技能徽章 -->
 🧰 常用工具
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
@@ -164,8 +136,8 @@ mindmap
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<!-- programming tool icon 编程工具图标
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br> -->
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -188,7 +160,8 @@ mindmap
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/github.webp"> 
+ -->
 
 <!-- just foot-img 底图 -->
 <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/icon.png" />
