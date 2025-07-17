@@ -105,23 +105,14 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-<!-- 🚀 GitHub 数据统计 -->
+<!-- GitHub 数据统计 - 科技感优化版 -->
 <div align="center">
-  <!-- 🧠 活跃度统计 -->
-  <img 
-    height="160px"
-    src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=24&text_color=00eaff&icon_color=00eaff&bg_color=0,0d1117,1f1f2e&theme=tokyonight" 
-  />
-  <!-- 📊 最常用语言 -->
-  <img 
-    height="160px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=00eaff&icon_color=00eaff&bg_color=0,1f1f2e,0d1117&theme=tokyonight" 
-  />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dark&text_color=75E6DA&icon_color=75E6DA&bg_color=0,0D1117,172D4D" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark&text_color=75E6DA&bg_color=0,172D4D,36E2B9" />
 </div>
-
 <br>
-<!-- GitHub 奖杯🏆 -->
 
+<!-- GitHub 奖杯🏆 -->
 <div style="display: flex; align-items: center; overflow-x: hidden; white-space: nowrap;">
   <!-- 左侧鸭子 -->
   <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
