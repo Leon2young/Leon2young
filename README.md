@@ -105,11 +105,12 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-<!-- GitHub 数据统计 -->
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=ffffff&icon_color=00ffe0&bg_color=45,0f2027,203a43,2c5364&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=00ffe0&bg_color=45,2c5364,203a43,0f2027&theme=transparent" />
+<!-- GitHub 数据统计 + 赛博电路背景 -->
+<div align="center" style="background: url('https://www.transparenttextures.com/patterns/circuits.png'), linear-gradient(90deg, #00f5ff, #00c9ff, #7c5fff, #c74bff, #ff3cac, #ff7e5f, #ffd700); background-size: cover; padding: 20px; border-radius: 12px;">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=ffffff&icon_color=00ffe0&bg_color=00000000&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=00ffe0&bg_color=00000000&theme=transparent" />
 </div>
+
 <br>
 
 <!-- GitHub 奖杯🏆 -->
