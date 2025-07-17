@@ -105,10 +105,10 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-<!-- GitHub 数据统计 - 科技感优化版 -->
+<!-- GitHub 数据统计 -->
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dark&text_color=75E6DA&icon_color=75E6DA&bg_color=0,0D1117,172D4D" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark&text_color=75E6DA&bg_color=0,172D4D,36E2B9" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=ffffff&icon_color=00ffe0&bg_color=45,0f2027,203a43,2c5364&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=00ffe0&bg_color=45,2c5364,203a43,0f2027&theme=transparent" />
 </div>
 <br>
 
