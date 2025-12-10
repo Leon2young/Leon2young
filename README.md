@@ -102,13 +102,13 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <!-- GitHub 数据统计 -->
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=ffffff&icon_color=00ffe0&bg_color=45,00f5ff,00c9ff,7c5fff,c74bff,ff3cac,ff7e5f,ffd700&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=00ffe0&bg_color=45,00f5ff,00c9ff,7c5fff,c74bff,ff3cac,ff7e5f,ffd700&theme=transparent" />
+  <img height="150" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=ffffff&icon_color=00ffe0&bg_color=45,00f5ff,00c9ff,7c5fff,c74bff,ff3cac,ff7e5f,ffd700&theme=transparent" />
+  <img height="150" src="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=00ffe0&bg_color=45,00f5ff,00c9ff,7c5fff,c74bff,ff3cac,ff7e5f,ffd700&theme=transparent" />
 </div>
 <br>
 
