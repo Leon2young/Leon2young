@@ -113,7 +113,7 @@
   <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
        style="width: 80px; height: auto; flex-shrink: 1;" />
   <!-- 奖杯 -->
-  <img src="https://https://github-readme-stats-pink-nine-60.vercel.app/?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
+  <img src="https://https://github-readme-stats-pink-nine-60.vercel.app/api?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
        style="flex: 1; min-width: 0; max-width: 100%;" />
   <!-- 右侧鸭子 -->
   <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
