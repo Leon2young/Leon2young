@@ -84,14 +84,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats-pink-nine-60.vercel/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&langs_count=12&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats-pink-nine-60.vercel/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats-pink-nine-60.vercel/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 <!--END_SECTION:waka-->
 </td></tr>
@@ -105,11 +105,6 @@
   <img height="150px" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="150px" src="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-<!-- GitHub 数据统计 -->
-<div align="center">
-  <img height="150" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=ffffff&icon_color=00ffe0&bg_color=45,00f5ff,00c9ff,7c5fff,c74bff,ff3cac,ff7e5f,ffd700&theme=transparent" />
-  <img height="150" src="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=00ffe0&bg_color=45,00f5ff,00c9ff,7c5fff,c74bff,ff3cac,ff7e5f,ffd700&theme=transparent" />
-</div>
 <br>
 
 <!-- GitHub 奖杯🏆 -->
@@ -118,7 +113,7 @@
   <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
        style="width: 80px; height: auto; flex-shrink: 1;" />
   <!-- 奖杯 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
+  <img src="https://https://github-readme-stats-pink-nine-60.vercel.app/?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
        style="flex: 1; min-width: 0; max-width: 100%;" />
   <!-- 右侧鸭子 -->
   <img src="https://cdn.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
