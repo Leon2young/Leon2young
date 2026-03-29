@@ -66,14 +66,15 @@
 
 <tr><td>
 
+<img align="right" width="200" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/weicao.webp" />
+
 ### 📊 Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div style="display: flex; gap: 10px;">
-    <img height="150px" src="https://github-readme-stats-pink-nine.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-    <img height="150px" src="https://github-readme-stats-pink-nine.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  </div>
-  <img width="200" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/weicao.webp" />
+<br />
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img height="150px" src="https://github-readme-stats-pink-nine.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats-pink-nine.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <!-- <picture>  #wakaTime 
