@@ -65,11 +65,12 @@
 </td></tr>                
 
 <tr><td>
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
 <img align="right" width="200" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/weicao.webp" />
-
+  
 ### 📊 Stats
 
+</div>
 <br />
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
