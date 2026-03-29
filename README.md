@@ -87,15 +87,15 @@
 <img width="200%" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats-pink-nine.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats-pink-nine.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
 <div style="display: flex; align-items: center; overflow-x: hidden; white-space: nowrap;">
   <img src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
        style="width: 80px; height: auto; flex-shrink: 1;" />
-  <img src="https://github-profile-trophy.vercel.app/api?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
+  <img src="https://github-profile-trophy-delta-sand.vercel.app/api?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
        style="flex: 1; min-width: 0; max-width: 100%;" />
   <img src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
        style="width: 80px; height: auto; flex-shrink: 1;" />
