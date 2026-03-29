@@ -32,6 +32,7 @@
 
 <table>
 <tr><td>
+  
 ### 🤺 About Me
 
 <img align="right" width="100" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/xiaoyang.webp" />
@@ -59,7 +60,6 @@
 | ♟️ **策略游戏** | [![CK3](https://img.shields.io/badge/Paradox-十字军之王3-7f050d?logo=paradoxinteractive)](https://store.steampowered.com/app/1158310)             | ▰▰▰▰▰ 5/5 |
 | 📜 **历史探索** | [![通辽宇宙](https://img.shields.io/badge/通辽宇宙-硬核狠人-00aeec?logo=bilibili)](https://space.bilibili.com/23947287)                             | ▰▰▰▰▰ 5/5 |
 | 💰 **财富思维** | [![小狗钱钱](https://img.shields.io/badge/理财心理学-小狗钱钱-F7931A?logo=bitcoin)](https://weread.qq.com/web/bookDetail/ea232e205c3023ea2c96525) | ▰▰▰▰▰ 5/5 |
-
                                                                                                                                                                            
 
 </td></tr>                
@@ -72,14 +72,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-pink-nine-60.vercel.app/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-pink-nine-60.vercel.app/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-pink-nine-60.vercel.app/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 </td></tr>
 </table>
@@ -87,15 +87,15 @@
 <img width="200%" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
 
 <div align="center">
-  <img height="150px" src="https://github-readme-stats-pink-nine-60.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="150px" src="https://github-readme-stats-pink-nine-60.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
 <div style="display: flex; align-items: center; overflow-x: hidden; white-space: nowrap;">
   <img src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
        style="width: 80px; height: auto; flex-shrink: 1;" />
-  <img src="https://github-profile-trophy-pink-nine-60.vercel.app/api?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
+  <img src="https://github-profile-trophy.vercel.app/api?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
        style="flex: 1; min-width: 0; max-width: 100%;" />
   <img src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
        style="width: 80px; height: auto; flex-shrink: 1;" />
