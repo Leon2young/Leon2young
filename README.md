@@ -2,7 +2,7 @@
 
   <div align="center">
     <a href="https://github.com/Leon2young">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello+World!%22);%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1%EF%BC%8C%E7%94%9F%E6%B4%BB%E6%84%89%E5%BF%AB~&center=true" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=System.out.println(%22Hello+World!%22);%E4%BF%9D%E6%8C%81%E7%83%AD%E7%88%B1%EF%BC%8C%E7%94%9F%E6%B4%BB%E6%84%89%E5%BF%AB~&center=true" alt="Typing SVG" />
     </a>
   </div>
 
