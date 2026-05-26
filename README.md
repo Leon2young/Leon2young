@@ -8,8 +8,12 @@
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/peipei-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/peipei-light.gif" height="225px" />
-    <img src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/developer.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/peipei-light.gif" />
+    <img
+        height="225"
+        src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/developer.svg"
+        alt="developer"
+     />
   </picture>
 
   <div align="center">
@@ -21,11 +25,11 @@
     <a href="https://github.com/Leon2young"><img src="https://komarev.com/ghpvc/?username=Leon2young&label=Views&color=2BB24C&style=flat" alt="访问量统计"/></a>&emsp;
   </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 # 🙋 Hello
@@ -43,8 +47,6 @@
 <p><strong>&emsp;&emsp;Code evolves Taiji through ceaseless iterations, vigilant automation guarding open-source cosmology. Modular Yin-Yang mutations forge Yuan-Heng-Li-Zhen harmony, as hierarchical abstraction unveils the flawless Dao.</strong></p>
 <p><strong>&emsp;&emsp;"终日乾乾"代码迭代重构数字太极，"夕惕若厉"自动测试守护开源坤元。当模块化架构的阴阳爻变臻至元亨利贞之境，层次化抽象自显无咎之道。</strong></p>
 
-
-
 </td></tr>
 
 <tr><td>
@@ -53,61 +55,84 @@
 
 <img align="right" width="100" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/sikadi.gif" />
 
-| 领域                        | 项目动态                                                                                                                                          | 沉浸指数  |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| 领域            | 项目动态                                                                                                                                          | 沉浸指数  |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
 | 🤖 **专业研究** | [![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-正在研究-8A2BE2?logo=bookstack)](https://zhuanlan.zhihu.com/p/624221952)       | ▰▰▰▰▰ 5/5 |
 | 🎷 **音乐鉴赏** | [![O Pato](https://img.shields.io/badge/优雅Jazz-O_Pato-FF69B4?logo=neteasecloudmusic)](https://b23.tv/BV1opXDYyEzy)                              | ▰▰▰▰▰ 5/5 |
 | ♟️ **策略游戏** | [![CK3](https://img.shields.io/badge/Paradox-十字军之王3-7f050d?logo=paradoxinteractive)](https://store.steampowered.com/app/1158310)             | ▰▰▰▰▰ 5/5 |
-| 📜 **历史探索** | [![通辽宇宙](https://img.shields.io/badge/通辽宇宙-硬核狠人-00aeec?logo=bilibili)](https://space.bilibili.com/23947287)                             | ▰▰▰▰▰ 5/5 |
+| 📜 **历史探索** | [![通辽宇宙](https://img.shields.io/badge/通辽宇宙-硬核狠人-00aeec?logo=bilibili)](https://space.bilibili.com/23947287)                           | ▰▰▰▰▰ 5/5 |
 | 💰 **财富思维** | [![小狗钱钱](https://img.shields.io/badge/理财心理学-小狗钱钱-F7931A?logo=bitcoin)](https://weread.qq.com/web/bookDetail/ea232e205c3023ea2c96525) | ▰▰▰▰▰ 5/5 |
-                                                                                                                                                                           
 
-</td></tr>                
+</td></tr>
 
 <tr><td>
   
 ### 📊 Stats
-
-<img align="right" width="180" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/weicao.webp" />
-
-<br />
-
-<div style="display: flex; gap: 10px; flex-wrap: nowrap; white-space: nowrap; overflow-x: auto;">
-  
-  <img height="150" width="380" src="https://github-readme-stats-pink-nine.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Github-readme-stats card" />
-
-  <img height="150" src="https://github-readme-stats-pink-nine.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Github-top-langs card" />
-
-</div>
-
-<!-- <picture>  #wakaTime 
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
+  <img align="right"
+    width="125"
+    src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/weicao.webp"
+    alt="weicao"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+
+<p align="left">
+  <img
+    width="45%"
+    align="center"
+    src="https://github-readme-stats-pink-nine.vercel.app/api?username=Leon2young&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=24&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"
+    alt="Leon2young GitHub Stats"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Leon2young&layout=compact&langs_count=12&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture> -->
+  <img
+    width="35%"
+    align="center"
+    src="https://github-readme-stats-pink-nine.vercel.app/api/top-langs/?username=Leon2young&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"
+    alt="Leon2young Top Languages"
+  />
+</p>
 
 </td></tr>
 </table>
 
-<img width="200%" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
+<p align="center">
+  <img
+    width="100%"
+    src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif"
+    alt="divider"
+  />
+</p>
 
-<br>
+<br />
 
-<div style="display: flex; align-items: center; overflow-x: hidden; white-space: nowrap;">
-  <img src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
-       style="width: 80px; height: auto; flex-shrink: 1;" />
-  <img src="https://github-profile-trophy-delta-sand.vercel.app/api?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" 
-       style="flex: 1; min-width: 0; max-width: 100%;" />
-  <img src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif" 
-       style="width: 80px; height: auto; flex-shrink: 1;" />
-</div>
-<br>
-<img src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/icon.png" />
+<p align="center">
+  <img
+    width="70"
+    src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif"
+    alt="duck"
+  />
+  <img
+    width="75%"
+    src="https://github-profile-trophy-delta-sand.vercel.app/api?username=Leon2young&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true"
+    alt="GitHub Profile Trophy"
+  />
+  <img
+    width="70"
+    src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/cxyduck.gif"
+    alt="duck"
+  />
+</p>
 
-<img width="200%" src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif" />
+<br />
+
+<p align="center">
+  <img
+    src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/icon.png"
+    alt="icon"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://fastly.jsdelivr.net/gh/Leon2young/Leon2young/assets/images/hr.gif"
+    alt="divider"
+  />
+</p>
